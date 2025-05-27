@@ -1,0 +1,37 @@
+[1]	J. Bajo, F. De la Prieta, J. M. Corchado, and S. Rodríguez, A low-level resource allocation in an agent-based cloud computing platform, Appl. Soft Comput., vol. 48, pp. 716728, Nov. 2016.
+[2]	J. Fiosina and M. Fiosins, Density-based clustering in cloud-oriented collaborative multi-agent systems, inProc.Int.Conf.HybridArtif.Intell. Syst., 2013, pp. 639648.
+[3]	J. O. Gutierrez-Garcia and K. M. Sim, Agent-based cloud bag-of-tasks execution, J. Syst. Softw., vol. 104, pp. 1731, Jun. 2015.
+[4]	A. Singh, D. Juneja, and M. Malhotra, Autonomous agent based load balancing algorithm in cloud computing, Proc. Comput. Sci., vol. 45, pp. 832841, Jan. 2015.
+[5]	K.Govinda and E. Sathiyamoorthy, Agent based security for cloud computing using obfuscation, Proc. Eng., vol. 38, pp. 125129, Jan. 2012.
+[6]	R. Nikbazm and M. Ahmadi, Agent-based resource discovery in cloud computing using bloom lters, in Proc. 4th Int. eConf. Comput. Knowl. Eng. (ICCKE), Oct. 2014, pp. 352357.
+[7]	F. Hou and X. Mao, Cross-clouds services autonomic management approach based on self-organizing multi-agent technology, Concurrency Comput., Pract. Exper., vol. 28, no. 11, pp. 32133237, 2016.
+[8]	K.M.Sim, Agent-based cloud computing, IEEETrans.Serv. Comput., vol. 5, no. 4, pp. 564577, Oct. 2012.
+[9]	Y. Jiang and J. C. Jiang, Understanding social networks from a multiagent perspective, IEEE Trans. Parallel Distrib. Syst., vol. 25, no. 10, pp. 27432759, Oct. 2014.
+[10]	M. Gatti et al., Large-scale multi-agent-based modeling and simulation of microblogging-based online social network, in Proc. Int. Workshop Multi-Agent Syst. Agent-Based Simulation, 2013, pp. 1733.
+[11]	L. Ma and Y. Zhang, Hierarchical social network analysis using multiagent systems: Aschoolsystemcase, inProc.IEEEInt.Conf.Syst.,Man Cybern. (SMC), Oct. 2014, pp. 14121419.
+[12]	V. Gorodetski and I. Kotenko, The multi-agent systems for computer network security assurance: Framework sand case studies, inProc.IEEE Int. Conf. Artif. Intell. Syst. (ICAIS), Sep. 2002, pp. 297302.
+[13]	L.Mechtri, F. D. Tolba, and S. Ghanemi, Masid: Multi-agent system for intrusion detection in MANET, in Proc. 9th Int. Conf. Inf. Technol., New Generat. (ITNG), Apr. 2012, pp. 6570.
+[14]	S. Sarika and V. Paul, AgentTab: An agent based approach to detect tabnabbing attack, Proc. Comput. Sci., vol. 46, pp. 574581, Jan. 2015.
+[15]	S.Shamshirband, N.B.Anuar, M.L.M.Kiah, and A.Patel, Anappraisal and design of a multi-agent system based cooperative wireless intrusion detection computational intelligence technique, Eng. Appl. Artif. Intell., vol. 26, no. 9, pp. 21052127, 2013.
+[16]	G. Di Caro and M. Dorigo, An adaptive multi-agent routing algorithm inspired by ants behavior, in Proc. 5th Annu. Austral. Conf. Parallel Real-Time Syst. (PART), 1998, pp. 261272.
+[17]	R. Claes, T. Holvoet, and D. Weyns, A decentralized approach for anticipatory vehicle routing using delegate multiagent systems, IEEE Trans. Intell. Transp. Syst., vol. 12, no. 2, pp. 364373, Feb. 2011.
+[18]	M. Bendjima and M. Feham, Multi-agent system for a reliable routing in WSN, inProc. Sci. Inf. Conf. (SAI), Jul. 2015, pp. 14121419.
+[19]	S. Manvi and M. Kakkasageri, Multicast routing in mobile ad hoc networks by using a multiagent system, Inf. Sci., vol. 178, no. 6, pp. 16111628, 2008.
+[20]	G.Dudek,M.R.Jenkin,E.Milios,andD.Wilkes, Ataxonomyformulti agent robotics, Auto. Robot., vol. 3, no. 4, pp. 375397, 1996.
+[21]	C.G.Cena,P. F. Cardenas, R. S. Pazmino, L. Puglisi, and R. A. Santonja, A cooperative multi-agent robotics system: Design and modelling, Expert Syst. Appl., vol. 40, no. 12, pp. 47374748, 2013.
+[22]	Y. Duan, B. X.Cui, and X.H.Xu, Amulti-agentreinforcement learning approach to robot soccer, Artif. Intell. Rev., vol. 38, no. 3, pp. 193211, 2012.
+[23]	J. Ota, Multi-agent robot systems as distributed autonomous systems, Adv. Eng. Informat., vol. 20, no. 1, pp. 5970, 2006.
+[24]	P. Inigo-Blasco, F. Diaz-del-Rio, M. C. Romero-Ternero, D. Cagigas-Muñiz, and S. Vicente-Diaz, Robotics software frameworks for multi-agent robotic systems development, Robot. Auto. Syst., vol. 60, no. 6, pp. 803 821, 2012.
+[25]	A. Soriano, E. J. Bernabeu, A. Valera, and M. Vallès, Multi-agent systems platform for mobile robots collision avoidance, in Proc. Int. Conf. Practical Appl. Agents Multi-Agent Syst., 2013, pp. 320323.
+[26]	D. Helbing, Agent-based modeling, in Social self-Organization. Berlin, Germany: Springer, 2012, pp. 2570.
+[27]	R.Domínguez, S.Cannella,andJ.M.Framinan, SCOPE:Amulti-agent system tool for supply chain network analysis, in Proc. IEEE Int. Conf. Comput. (EUROCON), Sep. 2015, pp. 15.
+[28]	O. Wangapisit, E. Taniguchi, J. S. Teo, and A. G. Qureshi, Multi-agent systems modelling for evaluating joint delivery systems, Proc.-Social Behavioral Sci., vol. 125, pp. 472483, Mar. 2014.
+[29]	S. D. J. McArthur et al., Multi-agent systems for power engineering applications Part I: Concepts, approaches, and technical challenges, IEEE Trans. Power Syst., vol. 22, no. 4, pp. 17431752, Nov. 2007.
+[30]	P. Ringler, D. Keles, and W. Fichtner, Agent-based modelling and simulation of smartelectricity grids andmarkets Aliteraturereview, Renew. Sustain. Energy Rev., vol. 57, pp. 205215, 2016.
+[31]	M. Khayyat and A. Awasthi, An intelligent multi-agent based model for collaborative logistics systems, Transp. Res. Procedia, vol. 12, pp. 325338, Jan. 2016.
+[32]	K. Hager, J. Rauh, and W. Rid, Agent-based modeling of traf c behavior in growing metropolitan areas, Transp. Res. Procedia, vol. 10, pp. 306315, Jan. 2015.
+[33]	O. van Pruissen, A. van der Togt, and E. Werkman, Energy ef ciency comparison of a centralized and a multi-agent market based heating system in a eld test, Energy Procedia, vol. 62, pp. 170179, Jan. 2014.
+[34]	J. Cai, D. Kim, R. Jaramillo, J. E. Braun, and J. Hu, A general multi agent control approach for building energy system optimization, Energy Buildings, vol. 127, pp. 337351, Sep. 2016. C. P. Nguyen and A. J. Flueck, Agent based restoration with distributed
+[35]	 energy storage support in smart grids, IEEE Trans. Smart Grid, vol. 3, no. 2, pp. 10291038, Jun. 2012.
+[36]	P. Vytelingum, T. D. Voice, S. D. Ramchurn, A. Rogers, and N. R. Jennings, Agent-based micro-storage management for the smart grid, in Proc. 9th Int. Conf. Auto. Agents Multiagent Syst., 2010, pp. 3946.
+[37]	G.H.Merabetetal., Applications of multi-agent systems in smart grids: Asurvey, in Proc. Int. Conf. Multimedia Comput. Syst. (ICMCS), 2014, pp. 10881094.
